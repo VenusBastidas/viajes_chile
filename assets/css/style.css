@@ -5,6 +5,9 @@ body {
   text-align: center;
   font-weight: bold;
 }
+.scrolled{
+    background-color: #2F4F4F;
+}
 h1{ 
     font-weight: 100;
 }
@@ -29,6 +32,11 @@ h5{
 }
 h4{
     font-weight: bolder;
+}
+
+#contacto{
+    background-color: #CD853F;
+    color: #FFF8DC;
 }
 .contacto{
     background-color: #CD853F;
