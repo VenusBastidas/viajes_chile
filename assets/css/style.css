@@ -57,4 +57,12 @@ footer{
     text-align: end;
     vertical-align: middle;
 }
-
+h3{
+    color: #FFF8DC;
+}
+.modal-body{
+    color: #2F4F4F;
+}
+.modal-title{
+    color: #2F4F4F;
+}

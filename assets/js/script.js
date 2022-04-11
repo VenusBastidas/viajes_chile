@@ -11,3 +11,7 @@ var tooltipTriggerList = [].slice.call(
     $nav.toggleClass('scrolled', $(this).scrollTop() > $nav.height());
     });
     });
+
+    $('.card-title').click(function() {
+        $('.card-text').toggle(); 
+    })
