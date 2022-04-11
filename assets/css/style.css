@@ -3,6 +3,7 @@ body {
   background-color: #FFF8DC;
   color: #2F4F4F;
   text-align: center;
+  font-weight: bold;
 }
 h1{ 
     font-weight: 100;
@@ -12,16 +13,40 @@ h1{
     font-weight: bolder;
 }
 .card{
-    background-color: #FFF8DC;
+    background-color: #2F4F4F ;
+    color: #FFF8DC;
+    padding: 1rem;
+    font-weight: lighter;
 }
-.card-title{
+
+h5{
     background-color: #2F4F4F ;
     color: #FFF8DC;
     padding-top: 1rem;
     padding-bottom: 1rem;
+    margin-top: 1 rem;
+    margin-bottom: 1rem;
+}
+h4{
+    font-weight: bolder;
+}
+.contacto{
+    background-color: #CD853F;
+    color: #FFF8DC;
+    margin-top: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+footer{
+    background-color: #2F4F4F;
+    color: #FFF8DC;
+    text-align: left;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
-.card-text{
-    background-color: #FFF8DC;
-    font-weight: bold;
+.foot{
+    text-align: end;
+    vertical-align: middle;
 }
+
