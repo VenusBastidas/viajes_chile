@@ -1,0 +1,27 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+  background-color: #FFF8DC;
+  color: #2F4F4F;
+  text-align: center;
+}
+h1{ 
+    font-weight: 100;
+}
+.title{
+    margin-top: 1rem;
+    font-weight: bolder;
+}
+.card{
+    background-color: #FFF8DC;
+}
+.card-title{
+    background-color: #2F4F4F ;
+    color: #FFF8DC;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.card-text{
+    background-color: #FFF8DC;
+    font-weight: bold;
+}
